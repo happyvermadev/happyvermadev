@@ -1,5 +1,7 @@
 # 💫 About Me:
-# Hi there 👋, I'm Happy Verma.<br>💻 JavaScript Developer | 🚀 Aspiring Full-Stack Engineer.<br><br>---<br><br>## 👨‍💻 About Me<br><br>- 💡 Passionate about building real-world web applications.<br>- 🌱 Currently learning **Advanced JavaScript, DSA, and Full Stack Development**.<br>- ⚛️ Working with **React.js, Next.js, Node.js, Express**. 
+Hi there 👋, I'm Happy Verma.<br>💻 JavaScript Developer | 🚀 Aspiring Full-Stack Engineer.<br>
+👨‍💻 About Me:
+💡 Passionate about building real-world web applications.<br>🌱 Currently learning **Advanced JavaScript, DSA, and Full Stack Development**.<br>⚛️ Working with **React.js, Next.js, Node.js, Express**. 
 
 
 ## 🌐 Socials:
