@@ -4,7 +4,7 @@ Hi there 👋, I'm Happy Verma.<br>💻 JavaScript Developer | 🚀 Aspiring Ful
 💡 Passionate about building real-world web applications.<br>🌱 Currently learning **Advanced JavaScript, DSA, and Full Stack Development**.<br>⚛️ Working with **React.js, Next.js, Node.js, Express**. 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_happy_verma__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/happy-verma-95453a32a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:happyverma39274@gmail.com) 
 
 # 💻 Tech Stack:
